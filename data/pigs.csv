@@ -1,0 +1,4 @@
+
+PigID,Name,Sex,BirthDate,Breed,Pen,WeightKg,HealthStatus,LastVaccination
+1,Luna,F,2025-02-14,Large White,A,72,Healthy,2025-08-01
+2,Bolt,M,2025-01-30,Landrace,B,95,Cough,2025-07-25
